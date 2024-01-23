@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+
+.btn {
+    @apply bg-orange-200
+}
+@tailwind utilities;
